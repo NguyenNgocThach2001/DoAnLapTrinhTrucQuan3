@@ -1,0 +1,92 @@
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Music_Player_UI.exe.config
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Music_Player_UI.exe
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Music_Player_UI.pdb
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.Form1.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.Properties.Resources.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.GenerateResource.cache
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CoreCompileInputs.cache
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CopyComplete
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.exe
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.pdb
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.Player.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.recent.resources
+C:\Users\tinh2\source\repos\Music_Player_UI\Music_Player_UI\obj\Debug\Music_Player_UI.recently_viewed.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Music_Player_UI.exe.config
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Music_Player_UI.exe
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Music_Player_UI.pdb
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.csprojAssemblyReference.cache
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.Form1.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.Player.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.Properties.Resources.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.recent.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.recently_viewed.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.GenerateResource.cache
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CoreCompileInputs.cache
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CopyComplete
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.exe
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.pdb
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Microsoft.DirectX.dll
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\AxInterop.WMPLib.dll
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\bin\Debug\Interop.WMPLib.dll
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Interop.WMPLib.dll
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.ResolveComReference.cache
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.Video_Menu.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\Music_Player_UI.Music_Menu.resources
+D:\Đại Học\Lập Trình Trực Quan\DoAn\-n-l-p-tr-nh-tr-c-quan\Music_Player_UI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Music_Player_UI.exe.config
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Music_Player_UI.exe
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Music_Player_UI.pdb
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Microsoft.DirectX.dll
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Interop.WMPLib.dll
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Microsoft.DirectX.xml
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.csprojAssemblyReference.cache
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Interop.WMPLib.dll
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.ResolveComReference.cache
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.Form1.resources
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.Music_Menu.resources
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.Video_Menu.resources
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.Player.resources
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.Properties.Resources.resources
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.recent.resources
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.recently_viewed.resources
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.GenerateResource.cache
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CoreCompileInputs.cache
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CopyComplete
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.exe
+C:\Users\tinh2\OneDrive\Máy tính\HK3 stuff\Đồ án LTTQ\Music_Player_UI\obj\Debug\Music_Player_UI.pdb
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Music_Player_UI.exe.config
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Music_Player_UI.exe
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Music_Player_UI.pdb
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Microsoft.DirectX.dll
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Interop.WMPLib.dll
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Microsoft.DirectX.Direct3D.dll
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Microsoft.DirectX.xml
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\Microsoft.DirectX.Direct3D.xml
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.csprojAssemblyReference.cache
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Interop.WMPLib.dll
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\AxInterop.WMPLib.dll
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.ResolveComReference.cache
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.Form1.resources
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.Music_Menu.resources
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.Video_Menu.resources
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.Player.resources
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.Properties.Resources.resources
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.recent.resources
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.recently_viewed.resources
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.GenerateResource.cache
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CoreCompileInputs.cache
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.csproj.CopyComplete
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.exe
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\obj\Debug\Music_Player_UI.pdb
+E:\Đo an LTTQ\DoAnLTTQ-master\Music_Player_UI\bin\Debug\taglib-sharp.dll
